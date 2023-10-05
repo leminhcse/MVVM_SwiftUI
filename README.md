@@ -3,7 +3,7 @@ Loading data from sever and display it on List in SwiftUI using MVVM pattern
 
 ## Screenshots
 
-<img src="row/preview_image.png" height="400" width="200">
+<img src="MVVM_SwiftUI/row/preview_image.png" height="400" width="200">
 
 ## License
 
